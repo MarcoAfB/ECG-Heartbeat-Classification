@@ -1,7 +1,7 @@
 # ECG-Heartbeat-Classification
 
 ## Project Overview
-This project develops and optimizes a Deep Learning model to classify heartbeats into five arrhythmia categories, using the MIT-BIH Arrhythmia dataset available on Kaggle.
+This project develops and optimizes a Deep Learning model to classify heartbeats into five arrhythmia categories, using the MIT-BIH Arrhythmia dataset available on Kaggle (https://www.kaggle.com/datasets/shayanfazeli/heartbeat).
 
 The primary motivation is to create a robust and reliable classifier that can serve as a decision support tool in medical diagnostics. The automatic and accurate detection of arrhythmias is a fundamental step toward the early treatment of potentially serious cardiac conditions.
 
